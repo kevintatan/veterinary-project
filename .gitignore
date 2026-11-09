@@ -1,0 +1,11 @@
+# OS / editores
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Cada app tiene su propio .gitignore (api/.gitignore, web/.gitignore)
+
+# Scripts personales de cada máquina (no se comparten)
+scripts/*.local.ps1
+scripts/test-db.ps1
